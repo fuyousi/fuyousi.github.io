@@ -1,13 +1,14 @@
-- National Scholarship of Graduate Student, 2024.
+* 2023 Trusted reviewer of the International journal of molecular sciences.&#x20;
 
-- First-prize Scholarship of CUMT, 2024.
+* From 2017 to 2020, won the gold medal of International Genetically Engineered Machine Competition (iGEM) for four consecutive years (as the deputy PI or advisor of the XMU-China team).&#x20;
 
-- First-prize Scholarship of CUMT, 2023.
+* 2019 Outstanding PhD Graduate Awards of Xiamen University.&#x20;
 
-- Freshman Scholarship of CUMT, 2022.
+* 2019 Excellent Student Awards of Xiamen University.&#x20;
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+* 2016 Excellent Student Awards of Xiamen University.&#x20;
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+* 2013 Outstanding Graduate Awards and Excellent Undergraduate Thesis Awards of Dalian University of Technology.&#x20;
 
-- First-prize Scholarship of CUMT, 2019.
+* 2010 and 2011 Dalian University of Technology Study Scholarship
+
