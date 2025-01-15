@@ -1,4 +1,4 @@
-[![ORCID]](https://orcid.org/0000-0001-9620-0848)
+[[ORCID]](https://orcid.org/0000-0001-9620-0848)
 
 I am currently post-doc researcher, at Michigan state university.
 
@@ -18,7 +18,9 @@ B.E., Bioengineering, Dalian University of Technology, China, 2009-2013.
 
 * Human intestinal microbiota
 
-* Anaerobic fermentation engineering
+* Microbial bile acids metabolism
 
-* Functional peptide
+* Anaerobic bacteria culture
+
+* Functional peptides
 
