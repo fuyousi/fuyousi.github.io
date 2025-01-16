@@ -1,23 +1,35 @@
 @import "./styles.css";
 
-
+/* 
+ * CSS Variables
+ * --h-title-color: Primary color used for headings and accents
+ */
 :root{
     --h-title-color:#3948d2;
 }
 
+/* 
+ * Header Styles
+ * Fixed position header with blue bottom border
+ */
 .header {
     border-bottom: solid 2px var(--bs-blue);
-    z-index: 10000;
+    z-index: 10000; /* Ensure header stays above other content */
 }
 
 .bg-bottom {
     background-color: var(--h-title-color);
 }
 
+/* 
+ * Top Section Styles
+ * Controls the spacing and background of the top section above the photo
+ * height: Controls the vertical space above the photo
+ */
 .top-section {
     position: relative;
-    padding: 2rem 0;
-    height: 4rem;
+    padding: 1rem 0;
+    height: 1%;
     background-color: #ffffff;
 }
 
@@ -38,19 +50,27 @@ section header h2{
     line-height: 4rem;
 }
 
+/* Specifically target the home subtitle */
+#home-subtitle {
+    margin-top: -2rem !important;
+    position: relative;
+    top: -1rem;
+}
+
 section .main-body{
     font-size: 1.3rem;
     font-weight: 200;
     line-height: 2.4rem;
 }
 
-
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
+    margin-top: 2rem !important;
 }
 
 .bg-gradient-primary-to-secondary-gray {
     background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
+    margin-top: 2rem !important;
 }
 
 
@@ -79,13 +99,17 @@ section .main-body{
 
 
 /* Profile photo container - positioned on right side */
+/* 
+ * Avatar (Profile Photo) Styles
+ * Controls the positioning and styling of the profile photo
+ */
 #avatar {
     position: relative;  /* Allows relative positioning */
     height: 0;           /* Height controlled by image */
-    top: -30px;          /* Moves photo upward */
+    top: -30px;          /* Moves photo upward into the top section */
     max-width: 55em;     /* Maximum container width */
     margin: 0 1.5rem 0 0; /* Right margin for spacing */
-    float: right;        /* Floats photo to right */
+    float: right;        /* Floats photo to right side */
     z-index: 9000;       /* Ensures photo appears above content */
 }
 

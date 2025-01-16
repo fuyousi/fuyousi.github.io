@@ -74,6 +74,15 @@
     <!-- Core JS-->
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
+    
+    <!-- Load Markdown Content -->
+    <script>
+        fetch('contents/skills.md')
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('skills-md').innerHTML = marked.parse(text);
+            });
+    </script>
 
 </head>
 
@@ -95,6 +104,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#publications">PUBLICATIONS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#skills">SKILLS</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
@@ -147,6 +159,16 @@
         </div>
     </section>
     <!-- Publications  -->
+
+    <!-- Skills -->
+    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="skills">
+        <div class="container px-5">
+            <header>
+                <h2 id="skills-subtitle"><i class="bi bi-tools"></i>SKILLS</h2>
+            </header>
+            <div class="main-body" id="skills-md"></div>
+        </div>
+    </section>
 
     <!-- Awards -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">

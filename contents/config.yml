@@ -1,5 +1,14 @@
 title: Yousi Fu's Homepage
 page-top-title: Yousi Fu
-top-section-bg-text: Microbiome
 home-subtitle: Yousi Fu&ensp;|&ensp;付友思
 copyright-text: '&copy; Yousi Fu 2025. All Rights Reserved.'
+
+menu:
+  - name: Home
+    url: home.md
+  - name: Publications
+    url: publications.md
+  - name: Skills
+    url: skills.md
+  - name: Awards
+    url: awards.md
