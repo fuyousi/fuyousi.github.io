@@ -106,7 +106,7 @@ section .main-body{
 #avatar {
     position: relative;  /* Allows relative positioning */
     height: 0;           /* Height controlled by image */
-    top: -30px;          /* Moves photo upward into the top section */
+    top: -10px;          /* Moves photo downward */
     max-width: 55em;     /* Maximum container width */
     margin: 0 1.5rem 0 0; /* Right margin for spacing */
     float: right;        /* Floats photo to right side */
@@ -114,7 +114,7 @@ section .main-body{
 }
 
 #avatar img {
-    height: max(130px,min(200px,calc(100vw/6)));
+    height: max(100px,min(150px,calc(100vw/8)));
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
