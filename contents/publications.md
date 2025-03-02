@@ -1,4 +1,4 @@
-* Yali Wang, Yue Wang, Xiaoyan Zhuang, Yonghui Zhang, Baishan Fang*, **Yousi Fu***; Unraveling the Osteogenic Activity and Molecular Mechanism of an Antioxidant Collagen Peptide in MC3T3-E1 Cells. Nutrients, 2025, 17, 824. [Link](https://www.mdpi.com/2072-6643/17/5/824)
+* Yali Wang, Yue Wang, Xiaoyan Zhuang, Yonghui Zhang, Baishan Fang*, **Yousi Fu***; Unraveling the Osteogenic Activity and Molecular Mechanism of an Antioxidant Collagen Peptide in MC3T3-E1 Cells. **Nutrients**, 2025, 17, 824. [Link](https://www.mdpi.com/2072-6643/17/5/824)
 
 * Tae Hyung Won, Mohammad Arifuzzaman, Christopher N Parkhurst, Isabella C Miranda, Bingsen Zhang, Elin Hu, Sanchita Kashyap, Jeffrey Letourneau, Wen-Bing Jin, **Yousi Fu**, Douglas V Guzior, Robert A Quinn, Chun-Jun Guo, Lawrence A David, David Artis*, Frank C Schroeder*; Host metabolism balances microbial regulation of bile acid signalling. **Nature**, 2025, 638, 216–224. [Link](https://www.nature.com/articles/s41586-024-08379-9)
 
