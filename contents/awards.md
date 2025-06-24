@@ -1,4 +1,4 @@
-* 2023 Trusted reviewer of the International journal of molecular sciences.&#x20;
+* 2025 Outstanding Postdoctoral Scholar Award in Department of Biochemistry and Molecular Biology, MSU.
 
 * From 2017 to 2020, won the gold medal of International Genetically Engineered Machine Competition (iGEM) for four consecutive years (as the deputy PI or advisor of the XMU-China team).&#x20;
 
