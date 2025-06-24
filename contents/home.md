@@ -1,6 +1,6 @@
 [[ORCID]](https://orcid.org/0000-0001-9620-0848)
 
-I am currently post-doc researcher, at Michigan state university.
+I am currently a post-doc researcher, at Michigan state university.
 
 #### Email
 
